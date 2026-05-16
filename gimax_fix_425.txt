@@ -1,0 +1,4 @@
+// Fix for: [CAMPAIGN] 5,000 Stars Drive — Earn Up to 430 RTC (5,000 RTC Pool)
+// Repo: Scottcjn/Rustchain
+// Issue: #425
+// Amount: $500
